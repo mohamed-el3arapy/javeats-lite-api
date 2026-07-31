@@ -7,7 +7,7 @@ This repository contains the architecture, API design, use case flows, and task 
 ## 📌 1. Database ERD
 Below is the Entity Relationship Diagram (ERD) detailing the core data models for Users, Restaurants, Menu Items, Carts, Orders, and Payments.
 
-![Javeats Lite ERD](./assets/erd-diagram.png)
+![Javeats Lite ERD](./assets/Javeats-lite-erd-diagram.png)
 
 ---
 
